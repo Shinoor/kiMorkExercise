@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1420343-96aa-4684-b4fb-ea229ed189e0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/modules/com/Program1.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/test.output/report.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/testng.xml" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PMw4ZlZ6aE6aHj2eMbpzoLgICi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/Applications/MockPlatform"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Applications/MockPlatform/testng.xml">
+    <configuration name="Program1.createQoute" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MockPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modules.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modules.com" />
+      <option name="MAIN_CLASS_NAME" value="modules.com.Program1" />
+      <option name="METHOD_NAME" value="createQoute" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program1.createQouteFunctinalityVerifications" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MockPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modules.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modules.com" />
+      <option name="MAIN_CLASS_NAME" value="modules.com.Program1" />
+      <option name="METHOD_NAME" value="createQouteFunctinalityVerifications" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program1.endToEndVerifications" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MockPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modules.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modules.com" />
+      <option name="MAIN_CLASS_NAME" value="modules.com.Program1" />
+      <option name="METHOD_NAME" value="endToEndVerifications" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program1.manageWebTable" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MockPlatform" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="modules.com.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="modules.com" />
+      <option name="MAIN_CLASS_NAME" value="modules.com.Program1" />
+      <option name="METHOD_NAME" value="manageWebTable" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Applications/MockPlatform/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MockPlatform" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Applications/MockPlatform/testng.xml" />
+        <item itemvalue="TestNG.Program1.endToEndVerifications" />
+        <item itemvalue="TestNG.Program1.manageWebTable" />
+        <item itemvalue="TestNG.Program1.createQouteFunctinalityVerifications" />
+        <item itemvalue="TestNG.Program1.createQoute" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1420343-96aa-4684-b4fb-ea229ed189e0" name="Changes" comment="" />
+      <created>1683280074004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683280074004</updated>
+    </task>
+    <servers />
+  </component>
+</project>
