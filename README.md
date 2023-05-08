@@ -1,0 +1,2 @@
+# kiMorkExercise
+Task approach 
